@@ -24,6 +24,7 @@ export class AuthorInput extends Component {
       authorName: ''
     });
   }
+  
 
   render() {
     return(
